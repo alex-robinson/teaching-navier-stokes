@@ -1,4 +1,4 @@
-# Lectures on Navier Stokes equations for geophysical fluid dynamics
+# Lecture on Navier Stokes equations for geophysical fluid dynamics
 
 Compile with pdflatex:
 
