@@ -3,7 +3,7 @@
 Compile with pdflatex:
 
 ```bash
-pdflatex CleanEasy.tex
+pdflatex LectureNavierStokes.tex
 ```
 
 Makes use of the CleanEasy Beamter theme.
